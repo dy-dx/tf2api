@@ -1,0 +1,22 @@
+{
+  "name": "tf2api",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dy-dx/tf2api.git"
+  },
+  "author": "Chris Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dy-dx/tf2api/issues"
+  },
+  "homepage": "https://github.com/dy-dx/tf2api",
+  "dependencies": {
+    "express": "~3.4.7"
+  }
+}
